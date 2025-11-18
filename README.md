@@ -25,4 +25,5 @@ RailwayProject_MySQL/
 ├── app.py               # Main Python Flask application
 ├── templates/           # Folder containing HTML files
 │   └── index.html       # The frontend user interface
-└── README.md            # Project documentation
+├── README.md            # Project documentation
+└── output.pdf           # Screenshot of the project running
