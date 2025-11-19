@@ -1,5 +1,9 @@
 # 🚂 Railway Reservation System (DBMS Project)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/Flask-2.x-green?style=flat&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?style=flat&logo=mysql)
+
 **RailwayProject_MySQL** is a web-based booking system that demonstrates core Database Management System (DBMS) concepts using **Python (Flask)** and **MySQL**. 
 
 The project solves the "race condition" problem in ticket booking by using transaction management and row-level locking.
